@@ -19,7 +19,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/marco-calautti/DeltaPatcher.git
-        tag: "v3.1.4"
-        commit: "413f45c2ca55dad44e857de897ad79adda058ddb"
+        tag: "v3.1.5"
+        commit: "f62345ea743f64852a701b5cebb1d78977a4a65c"
         x-checker-data:
             type: git
